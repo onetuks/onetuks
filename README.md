@@ -17,6 +17,7 @@
 ![Static Badge](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript&logoColor=%233776AB)
 ![Static Badge](https://img.shields.io/badge/kotlin-grey?style=for-the-badge&logo=kotlin&logoColor=%233776AB)
 ![Static Badge](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react&logoColor=%233776AB)
+![Static Badge](https://img.shields.io/badge/vuejs-grey?style=for-the-badge&logo=vue.js&logoColor=%233776AB)
 ![Static Badge](https://img.shields.io/badge/figma-grey?style=for-the-badge&logo=figma&logoColor=%233776AB)
 ![Static Badge](https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android%20studio&logoColor=%233DDC84)
 ![Static Badge](https://img.shields.io/badge/qgis-grey?style=for-the-badge&logo=qgis&logoColor=%23589632)
